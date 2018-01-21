@@ -1,4 +1,4 @@
-!#/bin/sh
+#!/bin/sh
 
 runDocker() {
     docker-compose up --build
